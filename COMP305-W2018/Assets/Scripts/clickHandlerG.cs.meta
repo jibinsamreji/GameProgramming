@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2a22e2260bd8f214eab0cf9e63e10759
+timeCreated: 1517775290
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - humanoid: {instanceID: 0}
+  - firstImage: {fileID: 21300000, guid: 861fbfe2b25817c4581a416f4250700d, type: 3}
+  - secondImage: {fileID: 21300000, guid: def3b7ba47043204c9857a6bb797649a, type: 3}
+  - thirdImage: {fileID: 21300000, guid: cabfb73af77bab14ea43c9ac2e3269e9, type: 3}
+  - buttonRed: {fileID: 21300000, guid: 75c038d055a3214459f24fbd3e233adf, type: 3}
+  - buttonGreen: {fileID: 21300000, guid: 85f31cb69302e104a8bb52cecd18f307, type: 3}
+  - buttonViolet: {fileID: 21300000, guid: 8c936b2233ebe214793f4f8ea400791a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
